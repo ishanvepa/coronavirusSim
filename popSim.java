@@ -1,6 +1,6 @@
 
 /**
- * Simulate the impact of coronavirus(covid-19) in the world.
+ * Simulate the impact of coronavirus(covid-19) in China.
  *
  * @author Ishan Vepa
  * @date 03/22 - 28/20
