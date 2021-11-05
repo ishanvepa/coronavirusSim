@@ -1,2 +1,2 @@
 # coronavirusSim
-Simulate the impact of coronavirus(covid-19) in the world. 
+logistic equation with user-inputted inputs for time that I was messing with.
