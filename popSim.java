@@ -1,6 +1,6 @@
 
 /**
- * Simulate the impact of coronavirus(covid-19) in China.
+ * logistic equation with user-inputted inputs for time that I was messing with to "simulate" covid.
  *
  * @author Ishan Vepa
  * @date 03/22 - 28/20
